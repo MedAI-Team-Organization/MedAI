@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
  
 # File path (you should modify this to the actual path of your CSV file)
-file_path = "Data\combinedDataset_categorized.csv"
+file_path = "/Users/jainamdoshi/Desktop/MedAI/MedAI/Data/combinedDataset_categorized.csv"
  
 try:
     # Read the CSV file
