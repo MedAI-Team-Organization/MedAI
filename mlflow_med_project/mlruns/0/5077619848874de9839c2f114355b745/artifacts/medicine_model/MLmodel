@@ -1,0 +1,30 @@
+artifact_path: medicine_model
+flavors:
+  python_function:
+    artifacts:
+      mlb:
+        path: artifacts/mlb.joblib
+        uri: mlb.joblib
+      model:
+        path: artifacts/side_effect_model.joblib
+        uri: side_effect_model.joblib
+      valid_columns:
+        path: artifacts/valid_columns.joblib
+        uri: valid_columns.joblib
+      vectorizer:
+        path: artifacts/tfidf_vectorizer.joblib
+        uri: tfidf_vectorizer.joblib
+    cloudpickle_version: 3.1.1
+    code: code
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.pyfunc.model
+    python_model: python_model.pkl
+    python_version: 3.8.20
+    streamable: false
+mlflow_version: 2.17.2
+model_size_bytes: 32545229
+model_uuid: 20765b439a32488a8c29abeb8cd7f24c
+run_id: 5077619848874de9839c2f114355b745
+utc_time_created: '2025-04-02 22:02:19.752190'

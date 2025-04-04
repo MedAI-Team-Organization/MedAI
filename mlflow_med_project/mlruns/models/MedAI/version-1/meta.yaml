@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1743634619117
+current_stage: Production
+description: ''
+last_updated_timestamp: 1743636667014
+name: MedAI
+run_id: 5077619848874de9839c2f114355b745
+run_link: ''
+source: file:///Users/jainamdoshi/Desktop/MedAI/mlflow_med_project/mlruns/0/5077619848874de9839c2f114355b745/artifacts/medicine_model
+status: READY
+status_message: null
+storage_location: file:///Users/jainamdoshi/Desktop/MedAI/mlflow_med_project/mlruns/0/5077619848874de9839c2f114355b745/artifacts/medicine_model
+user_id: null
+version: 1

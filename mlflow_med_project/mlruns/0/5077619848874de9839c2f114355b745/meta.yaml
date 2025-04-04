@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jainamdoshi/Desktop/MedAI/mlflow_med_project/mlruns/0/5077619848874de9839c2f114355b745/artifacts
+end_time: 1743631339945
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5077619848874de9839c2f114355b745
+run_name: unique-shrike-918
+run_uuid: 5077619848874de9839c2f114355b745
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743631284030
+status: 3
+tags: []
+user_id: jainamdoshi
