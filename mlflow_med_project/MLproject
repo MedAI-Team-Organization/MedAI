@@ -1,0 +1,7 @@
+name: medicine-side-effects
+ 
+conda_env: conda.yaml
+ 
+entry_points:
+  main:
+    command: "python log_model.py
